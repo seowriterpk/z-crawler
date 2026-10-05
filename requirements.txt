@@ -1,1 +1,6 @@
-
+streamlit>=1.38
+requests
+beautifulsoup4
+lxml
+pandas
+playwright
